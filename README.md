@@ -29,3 +29,8 @@ Learn and Update the Vim Setting
 5. Load vim files
  $ git clone https://github.com/Lee-dong-ho/vim.git
  $ sudo mv .a.vimrc .vimrc .vundle.vimrc ~/.
+ 
+6. .bashrc
+ - Enter PS1 generator page
+   https://scriptim.github.io/bash-prompt-generator/
+ - Generate PS1 command suitable to you
