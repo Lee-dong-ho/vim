@@ -26,4 +26,6 @@ Learn and Update the Vim Setting
  $ cargo build --release
  $ ./target/release/rg --version
  
-5. 
+5. Load vim files
+ $ git clone https://github.com/Lee-dong-ho/vim.git
+ $ sudo mv .a.vimrc .vimrc .vundle.vimrc ~/.
